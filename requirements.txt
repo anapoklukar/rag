@@ -1,0 +1,16 @@
+torch==2.6.0
+torchvision==0.21.0
+torchaudio==2.6.0
+faiss-gpu
+transformers
+datasets
+flask
+pandas
+numpy
+sentence-transformers
+accelerate
+langchain
+matplotlib
+scipy
+pandas
+argparse
